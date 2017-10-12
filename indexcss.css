@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.5;
+  }
+  h1 {
+  
+  }
+  section {
+    width: 80%;
+  }
+  img {
+    max-width: 100%;
+  }
+  .align {
+    text-align: center;
+  }
+  article {
+    width: 70%;
+  }
+  .margin {
+    margin: 0 auto;
+  }
